@@ -3,7 +3,7 @@ hello-world
 bestwu/wechat
 coredns：1.8.4
 #支持私库
-gcr.io/k8s-minikube/kicbase:v0.0.45
+kicbase
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
